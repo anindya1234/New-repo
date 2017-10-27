@@ -27,7 +27,7 @@ margin-right: 0px;
   color: white;
   background: #666;
   padding: 30px;
-  width: 33%;
+  width: 33.3%;
 }
 
 #middle {
@@ -37,7 +37,7 @@ margin-right: 0px;
   color: white;
   background: #888;
   padding: 30px;
-  width: 33%;
+  width: 33.3%;
 }
 #right {
 
@@ -46,9 +46,10 @@ margin-right: 0px;
   color: white;
   background: #666;
   padding: 30px;
-  width: 33%;}
+  width: 33.3%;}
 
 #full {
+	overflow: auto;
 display: block;
 float: left;
 padding-top: 20px;
@@ -64,7 +65,7 @@ margin-bottom:20px;
 #division {
 
 display: block;
-float: center;
+
 padding-top: 20px;
 padding-bottom: 20px;
 margin-top: 20px;
